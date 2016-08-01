@@ -1,0 +1,19 @@
+{
+    "productId":"AlexaBryson",
+    "dsn":"123456",
+    "provisioningMethod":"companionService",
+    "avsHost":"https://avs-alexa-na.amazon.com",
+    "companionApp":{
+        "localPort":8443,
+        "lwaUrl":"https://api.amazon.com",
+        "sslKeyStore":"/home/pi/Downloads/alexa-avs-raspberry-pi/samples/javaclient/certs/server/jetty.pkcs12",
+        "sslKeyStorePassphrase":"talktome"
+    },
+    "companionService":{
+        "serviceUrl":"https://localhost:3000",
+        "sslClientKeyStore":"/home/pi/Downloads/alexa-avs-raspberry-pi/samples/javaclient/certs/client/client.pkcs12",
+        "sslClientKeyStorePassphrase":"talktome",
+        "sslCaCert":"/home/pi/Downloads/alexa-avs-raspberry-pi/samples/javaclient/certs/ca/ca.crt",
+        "sessionId":"d9342d3b-fb1e-4f09-91df-572a1dd681b7"
+    }
+}

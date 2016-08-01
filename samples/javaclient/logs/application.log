@@ -1,0 +1,1328 @@
+19:05:23.117 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+19:05:23.121 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+19:05:23.143 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+19:05:23.521 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+19:05:23.521 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 1213b1fffe72f99f-0000275d-00040d94-454563c0cd28cee4-190589aa-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+19:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "0f0c3c85-7098-46d5-9ebb-7d8e95628580"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 534710
+    }
+  }
+}
+19:56:56.472 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+19:56:56.472 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 1213b1fffe72f99f-0000275d-00040d94-454563c0cd28cee4-190589aa-3-
+
+
+19:56:56.472 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+20:00:49.857 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+20:00:49.857 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+20:00:50.285 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+20:00:50.286 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 1213b1fffe72f99f-0000275d-0004122c-3282cf0995eb89f8-d66962f0-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+20:05:23.819 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIPHsB01FKvcFNZfsPJtG-agIoBJ0v5bsBgg2Pn-cYbnWUuC3k3s0zbs4X5qtL1ikNc7Ra4a_mb0_CVmkJnKld2Ip6zejpm0b_6ucNfzdUPIo45GEvwmP_ytxWZAHxFAnaBkt1WgL8i5syEnb3V7Fy-dKhM6uTxx8LTJoxQdHpBg2KjGs0dAUvTqdynNoDt20Ulj-kk6DE7O41lyRIE_fAJXOidS557YY-07E_fLk5E8bJB2bFzKJW84dc1CY4E8Dfx0aA-RBrrWUg5dOhp1daQdLuAfMslZLkatx0K1UpAWSnHP02_Atf9Wk1hzYkZo8pfTZu6vmmvcv4Httm3sVgpxKsr9HyhP6spqb6Z9_DAcCdFOC2r2qIB4wyiAQOytxiyvYrKysF-XpNA51ZA7dfTQcMjWJSqqBcEEsOWsqzDp_34_ORDEuSXs2ko4ohwE7MOFBetJYFYTJik4QZGfpZKgUCffvgn5ncFx4ESpAmdLqrPhmAL7QTruwUuKG-1czrcLe01ELthFz-VGhCTMvDoJe22DENmKZ5mEWEYaMK-197g","expires_in":3600}
+20:05:23.824 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+20:05:23.892 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+20:05:24.984 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+20:05:24.984 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-0004157c-643a1e018287d86e-84417587-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+20:56:56.214 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "83c1acec-2f26-4c82-9a84-f4f8e6684b15"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 538310
+    }
+  }
+}
+20:56:56.498 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+20:56:56.499 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-0004157c-643a1e018287d86e-84417587-3-
+
+
+20:56:56.500 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+21:00:41.521 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+21:00:41.521 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+21:00:41.966 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+21:00:41.966 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0abfd5fffe0ad7f9-0000096b-00040f6c-f78471a6122cbffc-90498020-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+21:05:24.604 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIMJ8tHkY-Tfv-CV7yXNuXK8wV8YSPSAZObAG9VoEQlBp2nFVZJTQjPqNwgjVeH9ljCNspM6OP20opj1Eo-hzhhzDiUGFjK-cOXg6PVSECduswMvLW6PCrW4o4NmzfEKGjN5AWCOC_fz4xteDddlJm9DhlelI1ntW87yuh3JwuociszDu76ZPjrybK8BvA4Vey2_CFg1EMEw50Xw4SwJRlPEvOlKCjpFgRmAYD6K-kUGVIpRC7ZqSLePZkHPd89YlajztfPaGyluBFrn8svQoEnM2y5IwBUGZTtZRz5dvLi5InzH_b1seDvKYL0htAWBzf3NW40VG2WNZRj8L61iU_UhmuRSGSGOaY3C0Lkw1yARLoPa0VqqX6RQ6Pdi1aqlKUSjRIgkZPE3vI3jEyRA9_Pc8mDTkNleQHemDtbeap7iaq9vPGR-ugKFwDrr6bMKrGThubjq2StgZzyL_EjEiZzy23_BVnXR0qaeB-YA3YM8BTx298Gqv3DnObMy_OZax4EzIQykQeShl5Q9hv1JmqGsxh1SnNE0j4gZ4UrOUCwz-kA","expires_in":3600}
+21:05:24.620 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+21:05:24.686 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+21:05:24.687 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0abfd5fffe0ad7f9-0000096b-00040f6c-f78471a6122cbffc-90498020-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+21:05:24.690 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+21:05:24.702 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.nio.channels.AsynchronousCloseException
+	at org.eclipse.jetty.http2.client.http.HttpConnectionOverHTTP2.close(HttpConnectionOverHTTP2.java:76) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.client.http.HttpClientTransportOverHTTP2$SessionListenerPromise.onClose(HttpClientTransportOverHTTP2.java:184) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.notifyClose(HTTP2Session.java:996) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$2.succeeded(HTTP2Session.java:377) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$ControlEntry.succeeded(HTTP2Session.java:1151) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.succeeded(HTTP2Flusher.java:274) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.WriteFlusher.write(WriteFlusher.java:332) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractEndPoint.write(AbstractEndPoint.java:141) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.process(HTTP2Flusher.java:253) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.processing(IteratingCallback.java:241) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.iterate(IteratingCallback.java:224) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frame(HTTP2Session.java:622) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frames(HTTP2Session.java:597) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.control(HTTP2Session.java:583) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.onGoAway(HTTP2Session.java:372) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.BodyParser.notifyGoAway(BodyParser.java:187) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.onGoAway(GoAwayBodyParser.java:169) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.parse(GoAwayBodyParser.java:108) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parseBody(Parser.java:182) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parse(Parser.java:110) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection$HTTP2Producer.produce(HTTP2Connection.java:166) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:162) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.execute(ExecuteProduceConsume.java:101) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection.onFillable(HTTP2Connection.java:97) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.ssl.SslConnection.onFillable(SslConnection.java:197) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_91]
+21:05:24.719 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+21:05:24.719 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+21:05:25.102 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+21:05:25.103 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 129e40fffe1cc03f-0000183e-0004135f-2ecda81a040eea11-eb33bf2b-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+21:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "2c1a385a-f5ad-43e3-aa1b-feedd258b3e0"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 541910
+    }
+  }
+}
+21:56:56.487 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+21:56:56.487 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 129e40fffe1cc03f-0000183e-0004135f-2ecda81a040eea11-eb33bf2b-3-
+
+
+21:56:56.488 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+22:00:27.135 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+22:00:27.135 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+22:00:27.623 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+22:00:27.624 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e30ddfffe56c5e3-000056b9-00041b6d-47f378aa5347763e-eb886d2f-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+22:05:25.375 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIAutiZ7kkGTUF9FtX16ltevQXXg4pUvrtDdLHGcWJ7oRdffobXxEM6D64UhQHKxRSaRrn_nrWu_3nJgCN-JYYuHLoMMfYo0m3twzpWW63Zu8Dw4pPEIdYTehLaROhDPdzN432TokUP7bzvQ8pvUtD9BZoja5ZjZYvsu8QEkl2GGjZH7wpzU7-cJD0c80OSdlFosIRKhwygDO3A04IutHNpxN-7wAQTvA_agDJ-9fZezUIwOORkyIEyx9KU62vOjGviI4FvL_L0V73AMpfgYMFZFJCCpGL7_xetLsEUuC22l28B0F3fjD0C2rYQT98eAFYPAbhJXskMUUmHeRkn3rItaX5QgTvNLnruhrwIoMYEWvNUVqIjhArDZ85FsBGXGtFBht-HYFWKAagSjeNXz43Xn86qDdJmDQNCFwMPX9Wa3MTqunVOSDeNcov9gqcnRMir6vRbY_AYilH2yzFrlW7Bu8QXyZTPzYlzlPX3prnla6oHy7C5rY7aH4gKlRxCjJ_q6ecyQoHLyo5xF2a3BFJnJdYbw4sRUSz5BWBBYmdvez-A","expires_in":3600}
+22:05:25.381 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+22:05:25.451 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+22:05:25.452 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e30ddfffe56c5e3-000056b9-00041b6d-47f378aa5347763e-eb886d2f-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+22:05:25.462 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+22:05:25.463 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+22:05:25.467 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+22:05:25.915 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+22:05:25.916 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-000416e5-b6aebb79c0cbfb95-78be7338-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+22:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "21b8f022-50c8-4caf-bb7e-9e640612cabb"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 545510
+    }
+  }
+}
+22:56:56.475 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+22:56:56.476 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-000416e5-b6aebb79c0cbfb95-78be7338-3-
+
+
+22:56:56.476 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+23:00:31.019 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+23:00:31.020 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+23:00:31.562 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+23:00:31.563 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ac700fffe40ec17-00005581-00041cc3-e038e6a9c843a808-fdd81aa9-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+23:05:26.117 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIGBnPEaPiufAd5cnJaqV_1e_DUgEAquVn4sH_beKVw_rhbg6v_m72w65Wp1bAxrBrAJDrtNT1ap7WK4yLGJgsjsFZhR_ktH1ZcvyG-XH-p4-Ut7YgeGdxxrcmIi93X20VExgOet_y8zKbLZ931y5Rd2CK7aTLcDHB5kFAkNhCRCdpC0rIrJSwOXNkXwFMiIbgJh8yAevfc8OdZ8pNkbgsG5PkcmPzwCy2D_B6LiclqRlWBGUjClPWpxT4wdUGpGa-oD6Rv0P3T0B7-yue73_jmSNfd51rsLgm6xJG-oPvYCuFgP_mi1u0oAAYVfxVxGSSzp1oGWiS9upaZ9j6B5TRa_LzI6LIZgh-e7hLPBK_gqAYAyJMrsMF8OqvAleW8wzlMiqJOfVe6__Lj2E-Y493zKWn7ri5ICmj-DjUFvCD6-xIAwUbzkpiajUgbwD0lh-T1OeumapxmRshZ9axJrvtPR3u09uiLHnkdyK35mT9kf3pPaFWAxzjzilLdZXMF5SGbSRKA86Iej7Ukif6AqBOMr_Lm1YutETmk30GxBml6Mtrw","expires_in":3600}
+23:05:26.125 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+23:05:26.183 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+23:05:26.184 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ac700fffe40ec17-00005581-00041cc3-e038e6a9c843a808-fdd81aa9-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+23:05:26.186 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.nio.channels.AsynchronousCloseException
+	at org.eclipse.jetty.http2.client.http.HttpConnectionOverHTTP2.close(HttpConnectionOverHTTP2.java:76) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.client.http.HttpClientTransportOverHTTP2$SessionListenerPromise.onClose(HttpClientTransportOverHTTP2.java:184) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.notifyClose(HTTP2Session.java:996) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$2.succeeded(HTTP2Session.java:377) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$ControlEntry.succeeded(HTTP2Session.java:1151) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.succeeded(HTTP2Flusher.java:274) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.WriteFlusher.write(WriteFlusher.java:332) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractEndPoint.write(AbstractEndPoint.java:141) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.process(HTTP2Flusher.java:253) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.processing(IteratingCallback.java:241) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.iterate(IteratingCallback.java:224) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frame(HTTP2Session.java:622) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frames(HTTP2Session.java:597) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.control(HTTP2Session.java:583) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.onGoAway(HTTP2Session.java:372) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.BodyParser.notifyGoAway(BodyParser.java:187) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.onGoAway(GoAwayBodyParser.java:169) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.parse(GoAwayBodyParser.java:108) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parseBody(Parser.java:182) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parse(Parser.java:110) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection$HTTP2Producer.produce(HTTP2Connection.java:166) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:162) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.execute(ExecuteProduceConsume.java:101) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection.onFillable(HTTP2Connection.java:97) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.ssl.SslConnection.onFillable(SslConnection.java:197) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_91]
+23:05:26.187 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.nio.channels.AsynchronousCloseException
+	at org.eclipse.jetty.http2.client.http.HttpConnectionOverHTTP2.close(HttpConnectionOverHTTP2.java:76) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.client.http.HttpClientTransportOverHTTP2$SessionListenerPromise.onClose(HttpClientTransportOverHTTP2.java:184) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.notifyClose(HTTP2Session.java:996) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$2.succeeded(HTTP2Session.java:377) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$ControlEntry.succeeded(HTTP2Session.java:1151) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.succeeded(HTTP2Flusher.java:274) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.WriteFlusher.write(WriteFlusher.java:332) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractEndPoint.write(AbstractEndPoint.java:141) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.process(HTTP2Flusher.java:253) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.processing(IteratingCallback.java:241) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.iterate(IteratingCallback.java:224) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frame(HTTP2Session.java:622) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frames(HTTP2Session.java:597) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.control(HTTP2Session.java:583) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.onGoAway(HTTP2Session.java:372) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.BodyParser.notifyGoAway(BodyParser.java:187) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.onGoAway(GoAwayBodyParser.java:169) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.parse(GoAwayBodyParser.java:108) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parseBody(Parser.java:182) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parse(Parser.java:110) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection$HTTP2Producer.produce(HTTP2Connection.java:166) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:162) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.execute(ExecuteProduceConsume.java:101) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection.onFillable(HTTP2Connection.java:97) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.ssl.SslConnection.onFillable(SslConnection.java:197) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_91]
+23:05:26.218 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+23:05:26.218 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+23:05:26.218 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+23:05:26.659 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+23:05:26.660 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-0004264b-3673d776b7b2f4cc-6a6159f3-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+23:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "1d53fdff-93af-4ee8-bae6-aaece2c7d3ff"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 549110
+    }
+  }
+}
+23:56:56.493 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+23:56:56.493 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-0004264b-3673d776b7b2f4cc-6a6159f3-3-
+
+
+23:56:56.493 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+00:00:32.055 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+00:00:32.056 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+00:00:32.539 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+00:00:32.540 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12eb26fffefd66c1-000060b5-00042892-6bfbd17b13cee675-7dc45123-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+00:05:26.892 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIDBu5k8fRll2CqrwBOjpOEpZUSBSj239HcPns5rw86QfnyFNpRbBlpKhjL8LPaeTj9Uni9eBf11nEw5uXxHV6-ueTxLvpBss-s6pMzAes9YNXq9vmm1G5QC7_9QqXXCPW6HygODlYURqWxSzC2ZtJEoccCMmqr7-4dBh6TyKSLJiwBYwrrLdMjs3h4s7hBVVeHlB4osmztyxvDXaoR1w-GpAD9KykK15p78t3Rk1tG1i5jE3BTBRdccwhgi7zv9z5nhwwpF3mGgAGjVfKY4CjW2G4NnPJytolgVDncbTlz8uqQC50jzZvTl-5W3O-nttxecBodyD9oL9rt_tFncSVELVrbvDLHAr6F3yIdfoDCDGYIs_4jHiFw1APBsa_W_VRblO8q7g4Gn1rZvwXH4optRE-i-B69b8j1KjUrXNfETcUjepixoCNCAWnDhEVBIT7VZCdIWh7mIsWuP2PIyEC-8Lqf9MlBr9_AB3lb_DRrOv-zCBux-YbUSmwIBvHnzEMmVexq5tdGlPCyeHFrY-MszOc7yeA8BsHbUvkReVmPZQYw","expires_in":3600}
+00:05:26.906 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+00:05:26.982 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+00:05:26.983 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12eb26fffefd66c1-000060b5-00042892-6bfbd17b13cee675-7dc45123-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+00:05:26.985 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+00:05:26.986 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+00:05:26.986 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+00:05:28.441 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+00:05:28.442 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0abfd5fffe0ad7f9-0000096b-000420b8-aeb2cfdcad858255-ed73a40d-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+00:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "abc0c2b3-f730-4064-980b-02006b3f17b1"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 552710
+    }
+  }
+}
+00:56:56.476 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+00:56:56.476 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0abfd5fffe0ad7f9-0000096b-000420b8-aeb2cfdcad858255-ed73a40d-3-
+
+
+00:56:56.477 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+01:00:33.524 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+01:00:33.524 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+01:00:34.007 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+01:00:34.008 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12bf1dfffe2bb3c3-000022c6-00042bee-4930d46d1f6812f8-61e2efb4-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+01:05:27.697 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBINIRhK97yDG-GB2XRlPDUZ4LGLDDl9IMjeqIIgEb4nYkVDXALrp7lZAo1JNs6vS0A5ni7biOd_zxOUol1xhHybc1K1UbD1AYUX1RTlJ8St1es7_JebXGzQTtIWiSVcmbLl1OWd2I5XdgxNCwSGjM6xR6U30lJvXDdi_1rlj6_rAnxJgpaRdf_hjmd_zerUkhg6vkVw1c4izKzClIt2X43LaBy-p6CVghwh9z9Gvn2ebnLGGmxQXhgUA1fCN5dN6U4JU3ULh89C2PQzSoMCQcdLjeXLcVoW35iDNeJLjQRFmyq5zoEn_vambVC65H4GsE7fgzgVnFIQDMCAYclXVpE55t-BOKZZ1O426Wokn9E_qNXnBeKKZge3tYhPh4wwATD7rCI1vfKN7Dq0pQW-xe24IlYpePwFkeN5W0o1UEK4XfpAtHnQcDcL6ccXuiPRJPgh1PuXd37qTRhVEoSgrbbfg-q32TzPwvsqEG1rjkBuxshxtKFkTZTY6wxOHEtA_AEh60Z-ijSFqtCFn_JuM8PA-Sob9EybLYJAo00vJd4sCD2Q","expires_in":3600}
+01:05:27.705 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+01:05:27.777 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+01:05:27.778 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12bf1dfffe2bb3c3-000022c6-00042bee-4930d46d1f6812f8-61e2efb4-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+01:05:27.784 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+01:05:27.782 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+01:05:27.791 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+01:05:28.265 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+01:05:28.266 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-0004277f-1e8a145ef5fc9022-99ca3e6b-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+01:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "ea09384d-7f27-4118-94cc-4844ba188ec7"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 556310
+    }
+  }
+}
+01:56:56.480 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+01:56:56.480 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-0004277f-1e8a145ef5fc9022-99ca3e6b-3-
+
+
+01:56:56.481 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+02:00:30.178 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+02:00:30.179 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+02:00:30.637 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+02:00:30.638 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a1a6ffffe62f243-00001620-0004292f-5c2e705bf54b3c22-58e67a15-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+02:05:28.525 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIDW89FFuUOzmno-Zjzruot_J_fPId8MSkRI1e_N29M5xCMek_zhW--mc6MkIxyrrbv4erawBC2yfejQ9Hk5y4Pw6kvzD2QPaR03GN5kydLaTHWkcI5SY3Z9JJoFVvlkMlfGwZNOjmEA1BU-q5fTulEcp2vDzOM5RPuxYeUSLm0CdTGFwZzJiDymTyJgSh7_M5xusjkM2IKvaO795z3E95Qa4ghnVhPMmSc0G-dOx9pN0yBH2bSNd1Et-iOqWNqpwqn2UTakDVOPWZjGXwoGximKr4pVGnXxsQLmRAVMTiINT1qvlJaA-JJMsN1wUQIeL_ozsBf5TDCE0D7A4CdHc2ff7pxKdYr6QXYYutopWXpANw8Vk0vAI73AnNNGbh4KHSo2vexAOUbolP9kwOOo81LrQSvsV39ENqepQhqDatfbvzDmPFJA2k7X4mqbY3C9OlkVjM-zL6rqOZnq-ug9Kfc1UoqWZIYnDUM2QQ4hGb3uwKWYZdygGpZCVPf40BnsV-TUi3LD_9yDodkJV1MrpkN9-9xXQppzNXznfrFrQDrQiVA","expires_in":3600}
+02:05:28.535 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+02:05:28.606 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+02:05:28.607 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a1a6ffffe62f243-00001620-0004292f-5c2e705bf54b3c22-58e67a15-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+02:05:28.620 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.nio.channels.AsynchronousCloseException
+	at org.eclipse.jetty.http2.client.http.HttpConnectionOverHTTP2.close(HttpConnectionOverHTTP2.java:76) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.client.http.HttpClientTransportOverHTTP2$SessionListenerPromise.onClose(HttpClientTransportOverHTTP2.java:184) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.notifyClose(HTTP2Session.java:996) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$2.succeeded(HTTP2Session.java:377) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$ControlEntry.succeeded(HTTP2Session.java:1151) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.succeeded(HTTP2Flusher.java:274) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.WriteFlusher.write(WriteFlusher.java:332) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractEndPoint.write(AbstractEndPoint.java:141) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.process(HTTP2Flusher.java:253) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.processing(IteratingCallback.java:241) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.iterate(IteratingCallback.java:224) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frame(HTTP2Session.java:622) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frames(HTTP2Session.java:597) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.control(HTTP2Session.java:583) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.onGoAway(HTTP2Session.java:372) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.BodyParser.notifyGoAway(BodyParser.java:187) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.onGoAway(GoAwayBodyParser.java:169) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.parse(GoAwayBodyParser.java:108) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parseBody(Parser.java:182) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parse(Parser.java:110) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection$HTTP2Producer.produce(HTTP2Connection.java:166) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:162) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.execute(ExecuteProduceConsume.java:101) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection.onFillable(HTTP2Connection.java:97) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.ssl.SslConnection.onFillable(SslConnection.java:197) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_91]
+02:05:28.617 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.nio.channels.AsynchronousCloseException
+	at org.eclipse.jetty.http2.client.http.HttpConnectionOverHTTP2.close(HttpConnectionOverHTTP2.java:76) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.client.http.HttpClientTransportOverHTTP2$SessionListenerPromise.onClose(HttpClientTransportOverHTTP2.java:184) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.notifyClose(HTTP2Session.java:996) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$2.succeeded(HTTP2Session.java:377) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$ControlEntry.succeeded(HTTP2Session.java:1151) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.succeeded(HTTP2Flusher.java:274) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.WriteFlusher.write(WriteFlusher.java:332) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractEndPoint.write(AbstractEndPoint.java:141) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.process(HTTP2Flusher.java:253) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.processing(IteratingCallback.java:241) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.iterate(IteratingCallback.java:224) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frame(HTTP2Session.java:622) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frames(HTTP2Session.java:597) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.control(HTTP2Session.java:583) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.onGoAway(HTTP2Session.java:372) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.BodyParser.notifyGoAway(BodyParser.java:187) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.onGoAway(GoAwayBodyParser.java:169) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.parse(GoAwayBodyParser.java:108) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parseBody(Parser.java:182) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parse(Parser.java:110) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection$HTTP2Producer.produce(HTTP2Connection.java:166) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:162) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.execute(ExecuteProduceConsume.java:101) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection.onFillable(HTTP2Connection.java:97) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.ssl.SslConnection.onFillable(SslConnection.java:197) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_91]
+02:05:28.641 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+02:05:28.645 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+02:05:28.645 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+02:05:29.081 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+02:05:29.081 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a79d8fffef61ccd-00004bbd-00042c15-3be298afc7b7a1e5-4bae44b9-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+02:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "6538bcf1-6354-4951-af21-722e485af2be"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 559910
+    }
+  }
+}
+02:56:56.492 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+02:56:56.492 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a79d8fffef61ccd-00004bbd-00042c15-3be298afc7b7a1e5-4bae44b9-3-
+
+
+02:56:56.493 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+03:00:37.422 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+03:00:37.422 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+03:00:37.885 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+03:00:37.886 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-00043121-1dcec84de6d22700-80233f02-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+03:05:29.265 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIMh6M0wvThGnu1lK9u-42elLF96lXRhqFnDdLL0Qep5Lr97fjDHWq83CkK6VpYwqwsbBeEON7uUCapqAP9EuKRZN0hQQYlaMbdFIceDJbZK1Cu5EO64ItSlpXshVfWAu3_x4Icom4HeOVuQtP9JTttrP6DxzAZk05wbhL0YJYEwjbNHDBT2F42vtnvjO64x_mvI_rheAjRGGukWUhj1VEwFjhOPcnrMGgIGzV1B-uFG343pE9m-Tudy-9GMpKqLLHy6W75OpMpZOuAnhqE_Tpdw6QpsWjaA3vyg5I8hsbd4C_yT6SKmM1hqdsqHOXHYtqg1EA7qXqyVvGdR0U4RhfVUCWBLuimLeSjPx3lqPez73E1irXksfDqqE1vfvVo4JAeLX3hBYzFHReWNj6DFfYmtkUshmeJnCz2EA7i3xUKFkNitMkeFc5VzKPgS_2VOROkob962y7HrzkhTxlKciGIISM-cHBX_1e21hBUKbMtVNwgKPhS9pJbvbdT5ygT3-pHOLMRuU-0Ut58rPlzA9_PlrzF9h-HwhbEeUHyD58Az1tA","expires_in":3600}
+03:05:29.273 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+03:05:29.338 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+03:05:29.339 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-00043121-1dcec84de6d22700-80233f02-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+03:05:29.343 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+03:05:29.345 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+03:05:29.345 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+03:05:30.000 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+03:05:30.001 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-0004318e-3cce998dc4d6bc04-db750d40-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+03:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "564be928-c3bd-4e31-bcb0-a84e8105dbe3"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 563510
+    }
+  }
+}
+03:56:56.487 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+03:56:56.488 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-0004318e-3cce998dc4d6bc04-db750d40-3-
+
+
+03:56:56.488 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+04:00:35.270 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+04:00:35.271 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+04:00:35.729 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+04:00:35.730 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ec90ffffe60cc55-0000640e-00043fab-df457a434384cd00-3212bfdb-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+04:05:30.359 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIFICK81D149gUErDyRH2SxNObp49rA5XtUVEReR71td6CXfyPf13uaSd-84baxCv1Tv8QhABNY_nJ9KgViab8jNkC-UqBcOckeIprie7kbjl1cWWOIPFQK17TNs-ZZQeXc67cY-h9Ii8apsXPvOJ5yjAh3IX6Unrglbq_RE1B7bMw3uxSp5MWefLjwywXaDX3iu9buZkyt6wjclzMQ1JkpQyL0-EvIJxWbttg2Je7Kp9joiQMMjT3PeXgBzdeCoWR512Fzl8wc6_Xfh5Ei5K0XdCA8BYqysz57X9Vb1mH81ZNZMi362btvkA1G0yeCO-Pr1DwQYyKZfSrc074ZsrlrWJmvaOZOKm_fieb8TjmwMtAzE92oSlPnirpyFs0xwpCP4q64VxAlVtigEKO_zvekUAgpBw_JeifoFFLEuKDXQqQSOBR9xLJvZAANebJv2uE3VOZLxb6QWBuL-i7ecqaz9213IqpniY1GxTCBsgZSM3N981DA7J2sQ1jmIepsqaYymG_Qs3gI0BMp4YHGPRNI2vMGVi8m85KMlIqa-d1IYSTA","expires_in":3600}
+04:05:30.373 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+04:05:30.460 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+04:05:31.566 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+04:05:31.567 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ae59cfffe683b81-000011de-0004355c-adeaf6548a994e0e-f0425991-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+04:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "b731b1cd-9cdf-4045-b08c-7d83e74a5f85"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 567110
+    }
+  }
+}
+04:56:56.486 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+04:56:56.486 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ae59cfffe683b81-000011de-0004355c-adeaf6548a994e0e-f0425991-3-
+
+
+04:56:56.487 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+05:00:40.400 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+05:00:40.400 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+05:00:40.822 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+05:00:40.822 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-000444a1-f91fe2af8e5fcf86-d21849db-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+05:05:31.381 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIAYyPiEm6dG9D7D1ZPdGT862HkThbAQMTPfqMKz9pgKwP7WoQ9EuNJd623Fli4hA8heHIRLOF8JTUu6OXVtZyaQr0B7W47iNNkAYwim9g6PF7eRTFD6C2RGBzv6wKso7qnbibEIbDMejwwnygqUMCjprMPLcwwEMKmEEeo3rzWlJbweUhDP1Yx4CpbzzbEYZibFkUxH4qKh_x-lyhQ-8VcNt9EdGI271HJsTwcMLILMldMwKjRYrVq5j20636Bj4RLFqbx5b7jafQMDZylOm9ErfK-SHtqaSx-eLHVGIOGsgeXQUnGMvZG8yaaOAHkuKxj0PPWGbnhi3ThDmDMh_JpgUKh1WKwXzUw_DzFnH9cn2W3VIA6EpS9Kwi--5NT5FuQ3ggiptFZ9hz8B6oBPZ7jgP1WA8KaSOOx_Z2R4h6IjPY-NivcdCUeb6LyObqHiRpGvtvROA_G2RWTpt44geIONcugIQsyPhD0f8nd9J7GMw1UOb52F1lOHpejZR1ofpz5zw19aqfR7OKN62RhPCJbHkXdjZ535bv2NRDAUoLd9Z6Q","expires_in":3600}
+05:05:31.398 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+05:05:31.466 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+05:05:31.467 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-000444a1-f91fe2af8e5fcf86-d21849db-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+05:05:31.470 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.io.IOException
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.failure(InputStreamResponseListener.java:386) ~[classes/:?]
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.read(InputStreamResponseListener.java:312) ~[classes/:?]
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.read(InputStreamResponseListener.java:355) ~[classes/:?]
+	at org.apache.commons.fileupload.MultipartStream$ItemInputStream.makeAvailable(MultipartStream.java:999) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream$ItemInputStream.read(MultipartStream.java:903) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at java.io.InputStream.read(InputStream.java:101) ~[?:1.8.0_91]
+	at org.apache.commons.fileupload.util.Streams.copy(Streams.java:100) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.util.Streams.copy(Streams.java:70) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.readBodyData(MultipartStream.java:593) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.discardBodyData(MultipartStream.java:617) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.skipPreamble(MultipartStream.java:634) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at com.amazon.alexa.avs.http.MultipartParser.loopStream(MultipartParser.java:63) ~[classes/:?]
+	at com.amazon.alexa.avs.http.MultipartParser.parseStream(MultipartParser.java:50) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.doRequestActual(AVSClient.java:293) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.access$200(AVSClient.java:60) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$2.call(AVSClient.java:214) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$2.call(AVSClient.java:210) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AbstractRetryPolicy.tryCall(AbstractRetryPolicy.java:29) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.doRequest(AVSClient.java:220) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.access$400(AVSClient.java:60) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$DownchannelRequestThread.openConnection(AVSClient.java:472) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$DownchannelRequestThread.run(AVSClient.java:464) [classes/:?]
+05:05:31.476 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+05:05:31.480 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.io.IOException
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.failure(InputStreamResponseListener.java:386) ~[classes/:?]
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.read(InputStreamResponseListener.java:312) ~[classes/:?]
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.read(InputStreamResponseListener.java:355) ~[classes/:?]
+	at org.apache.commons.fileupload.MultipartStream$ItemInputStream.makeAvailable(MultipartStream.java:999) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream$ItemInputStream.read(MultipartStream.java:903) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at java.io.InputStream.read(InputStream.java:101) ~[?:1.8.0_91]
+	at org.apache.commons.fileupload.util.Streams.copy(Streams.java:100) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.util.Streams.copy(Streams.java:70) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.readBodyData(MultipartStream.java:593) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.discardBodyData(MultipartStream.java:617) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.skipPreamble(MultipartStream.java:634) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at com.amazon.alexa.avs.http.MultipartParser.loopStream(MultipartParser.java:63) ~[classes/:?]
+	at com.amazon.alexa.avs.http.MultipartParser.parseStream(MultipartParser.java:50) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.doRequestActual(AVSClient.java:293) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.access$200(AVSClient.java:60) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$2.call(AVSClient.java:214) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$2.call(AVSClient.java:210) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AbstractRetryPolicy.tryCall(AbstractRetryPolicy.java:29) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.doRequest(AVSClient.java:220) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.access$400(AVSClient.java:60) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$DownchannelRequestThread.openConnection(AVSClient.java:472) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$DownchannelRequestThread.run(AVSClient.java:464) [classes/:?]
+05:05:31.506 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+05:05:31.507 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+05:05:31.967 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+05:05:31.967 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ae59cfffe683b81-000011de-00043a86-88769d5bd97058a7-977ce941-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+05:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "cc0e2b05-2bbf-47f1-82b9-90e3d4df97a3"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 570710
+    }
+  }
+}
+05:56:56.431 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+05:56:56.431 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ae59cfffe683b81-000011de-00043a86-88769d5bd97058a7-977ce941-3-
+
+
+05:56:56.431 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+06:00:37.654 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+06:00:37.654 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+06:00:39.239 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+06:00:39.240 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-00044a32-ff051518dd66d7d7-db1fac22-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+06:05:32.479 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIJufuOvOGnCc1BcQ219Y7VC-_LtWaslH7WuEy5Ydo-eEFf3u4tSo7HGP1O8l9OLhubcA3LxgQL1J13ODy1afYR6NpMHHAe0pP2WUGnresjKC7hZjBmDx27nrmI8FM4eF37j7YhlnAW32gWuTG6tclslmY_spx3gIpw5t8ZIS17D9JNmyBV4Ol90ITCIsEExonXm5UcqhYC7QA6a5sdLhKsbqj8oF558Bh_NyfL42SbbiUzFyXHtF33_sL-4De5ovvXBPKoGJzsYlwHK0piy-XJTv0WD8WvDkaBPO0Y0Eirm6GnLOBKEtc0o_GlPJGsI1smS8RDPX5uEhuEhFlsLXYL6XHewghy3q5xXcSWJM3ZVs1LneoEs-_pUeOJFu0D-0KH5UyP2rbwRT69QYrJdR_WX70bWPQIr21b_Tg76Y9vBwREi29LKIcwI4W_9MQ7H2DfuJ4PVs3m_sAFJpAu1PFdIIgRN4SDs-xR4s65sX-mfbAwlk-Z17CEzP_lASKyBVmXNSXFEj19J0pO_1aBZhOZOmbPD1Ean_Ray0p97VYaeIiw","expires_in":3600}
+06:05:32.509 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+06:05:32.591 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+06:05:32.592 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-00044a32-ff051518dd66d7d7-db1fac22-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+06:05:32.599 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.io.IOException
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.failure(InputStreamResponseListener.java:386) ~[classes/:?]
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.read(InputStreamResponseListener.java:312) ~[classes/:?]
+	at com.amazon.alexa.avs.http.jetty.InputStreamResponseListener$Input.read(InputStreamResponseListener.java:355) ~[classes/:?]
+	at org.apache.commons.fileupload.MultipartStream$ItemInputStream.makeAvailable(MultipartStream.java:999) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream$ItemInputStream.read(MultipartStream.java:903) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at java.io.InputStream.read(InputStream.java:101) ~[?:1.8.0_91]
+	at org.apache.commons.fileupload.util.Streams.copy(Streams.java:100) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.util.Streams.copy(Streams.java:70) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.readBodyData(MultipartStream.java:593) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.discardBodyData(MultipartStream.java:617) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at org.apache.commons.fileupload.MultipartStream.skipPreamble(MultipartStream.java:634) ~[commons-fileupload-1.3.1.jar:1.3.1]
+	at com.amazon.alexa.avs.http.MultipartParser.loopStream(MultipartParser.java:63) ~[classes/:?]
+	at com.amazon.alexa.avs.http.MultipartParser.parseStream(MultipartParser.java:50) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.doRequestActual(AVSClient.java:293) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.access$200(AVSClient.java:60) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$2.call(AVSClient.java:214) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$2.call(AVSClient.java:210) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AbstractRetryPolicy.tryCall(AbstractRetryPolicy.java:29) ~[classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.doRequest(AVSClient.java:220) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient.access$400(AVSClient.java:60) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$DownchannelRequestThread.openConnection(AVSClient.java:472) [classes/:?]
+	at com.amazon.alexa.avs.http.AVSClient$DownchannelRequestThread.run(AVSClient.java:464) [classes/:?]
+06:05:32.612 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+06:05:32.606 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.nio.channels.AsynchronousCloseException
+	at org.eclipse.jetty.http2.client.http.HttpConnectionOverHTTP2.close(HttpConnectionOverHTTP2.java:76) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.client.http.HttpClientTransportOverHTTP2$SessionListenerPromise.onClose(HttpClientTransportOverHTTP2.java:184) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.notifyClose(HTTP2Session.java:996) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$2.succeeded(HTTP2Session.java:377) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$ControlEntry.succeeded(HTTP2Session.java:1151) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.succeeded(HTTP2Flusher.java:274) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.WriteFlusher.write(WriteFlusher.java:332) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractEndPoint.write(AbstractEndPoint.java:141) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.process(HTTP2Flusher.java:253) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.processing(IteratingCallback.java:241) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.iterate(IteratingCallback.java:224) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frame(HTTP2Session.java:622) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frames(HTTP2Session.java:597) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.control(HTTP2Session.java:583) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.onGoAway(HTTP2Session.java:372) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.BodyParser.notifyGoAway(BodyParser.java:187) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.onGoAway(GoAwayBodyParser.java:169) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.parse(GoAwayBodyParser.java:108) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parseBody(Parser.java:182) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parse(Parser.java:110) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection$HTTP2Producer.produce(HTTP2Connection.java:166) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:162) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.execute(ExecuteProduceConsume.java:101) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection.onFillable(HTTP2Connection.java:97) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.ssl.SslConnection.onFillable(SslConnection.java:197) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_91]
+06:05:32.622 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+06:05:32.622 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+06:05:33.060 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+06:05:33.061 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0eceedfffedd21f7-00000cab-00044796-c5cb7d0bb4a76b58-a5fdf177-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+06:56:56.214 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "daabadfe-9210-4c75-b90f-948b0576989f"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 574310
+    }
+  }
+}
+06:56:56.432 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+06:56:56.433 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0eceedfffedd21f7-00000cab-00044796-c5cb7d0bb4a76b58-a5fdf177-3-
+
+
+06:56:56.434 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+07:00:34.035 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+07:00:34.036 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+07:00:34.456 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+07:00:34.456 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a1a6ffffe62f243-00001620-0004424f-012a11078d558bb3-e0390aa6-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+07:05:33.236 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIN2NZ1zquD7bVSJDVhu455FJCZCDs1JJxbdSOlQH0auHtcKS5-Ke4RGj_i6MBNx_e4xCLfohLGA63mnCeM2b0sLCkCsjSWDRxj32ubAE2nEnk_-ytKKB-Wec4MawMx4wehOhVpfKYlLkYS5YTm0AeAIR81plfXyCmKR1O5n9MvVB0_Q3GZlyHmooixbhNc2Oasl9DGGcXOKUzRt7JzNSnDR31VHtIYyUNhJBwfG4JsMkRFWkmwzh4E_h6O7UcDixtTBWY6yR4uQ9wQMnHXLFZVHXrNGsrV5pN_pWaGyTvMMvtMlVHV3Wbx01O9qDZYYbMxEmDk7tNdiZiQC1b8ccrfTAv8K-FyGpUiGxSiQxTzGs3qWsTDOQoVIyA5iPkSEVta67c-q3ngqQynTRijITKVuenBJf3RuXxIfRMurToZbooBSG2UbPwVPajtHmY9cRx6Iih-tfApoPrJ4iRZ-YOcPt3OjGosK7ko8syxA1tqK2NbkeIuJbZaNvAFkDmylw7kNjsSmz36DdUU-miUwEUNABbbu-Uk7YFc-FHXomDMJOUQ","expires_in":3600}
+07:05:33.245 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+07:05:33.311 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+07:05:33.311 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a1a6ffffe62f243-00001620-0004424f-012a11078d558bb3-e0390aa6-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+07:05:33.315 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+07:05:33.317 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+07:05:33.318 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+07:05:33.768 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+07:05:33.787 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12c34cfffe49ac2f-000059ca-00044b1c-e547c2a7df6264b9-d67a4b98-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+07:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "a2dbd9a9-2162-4e06-b1ff-b0006a92f7bf"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 577910
+    }
+  }
+}
+07:56:56.482 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+07:56:56.483 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12c34cfffe49ac2f-000059ca-00044b1c-e547c2a7df6264b9-d67a4b98-3-
+
+
+07:56:56.483 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+08:00:40.765 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+08:00:40.766 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+08:00:41.258 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+08:00:41.259 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e79fafffe04f803-000034d9-00044e6d-e11b95ebaf6cfc81-6a98798d-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+08:05:33.989 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBICLwXkmIrCO7pTPH7RCKCrHLJfIs13uIczF7KeoIm2rh6lrf5u7D01Q1iYJtuPSZ-ztfVPUJJdvE9F_e43lrjPxwzucmcXHH6wLgyd7pp_IiRXXB7nmfhVDkfdA6MOWZYMFdNbqh7xXRxms7o8gnvKMcS85OshO-oSfh9RB3fCSIA95pi2be66lQbuvnXuPK_bp6z4cbyLwvBp3nXdTao4fZF-0zxyKAn3fWV0Ct0msTL8PhAw29BixG4bEUbHXJAJ1wJdOD0Ua4MaK9xZ6zNoHx5WdQjBkSXj8_oIqjSjxlvG6ddMgitBVxFF7jKDHSdn8XhuvxF9gAb-5SCuXEQvWYVX90nU-Lx1r0CcCySLGC7_3O5ud6orfq3baIHZA29n_KYAfRp3LQVOwdPUgFrcR8cjNBabGvmM3E-QjT4qvVSXWIGjDSlKIIioNf4nqyqHdz6IOAsEfeAoY26zVQ7-EbH30TuqJH6JcEpMVwq73TOyH87cLxeHDnr68wFG7F8oEMnEMPKpqv0m-K2uO-ewsp7Fjj-eOIOJWkLNrX7xJ39w","expires_in":3600}
+08:05:33.994 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+08:05:34.062 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+08:05:34.066 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+08:05:34.067 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e79fafffe04f803-000034d9-00044e6d-e11b95ebaf6cfc81-6a98798d-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+08:05:34.068 [DownchannelRequestThread] ERROR com.amazon.alexa.avs.http.AVSClient - There was a problem with the request.
+java.nio.channels.AsynchronousCloseException
+	at org.eclipse.jetty.http2.client.http.HttpConnectionOverHTTP2.close(HttpConnectionOverHTTP2.java:76) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.client.http.HttpClientTransportOverHTTP2$SessionListenerPromise.onClose(HttpClientTransportOverHTTP2.java:184) ~[http2-http-client-transport-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.notifyClose(HTTP2Session.java:996) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$2.succeeded(HTTP2Session.java:377) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session$ControlEntry.succeeded(HTTP2Session.java:1151) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.succeeded(HTTP2Flusher.java:274) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.WriteFlusher.write(WriteFlusher.java:332) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractEndPoint.write(AbstractEndPoint.java:141) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Flusher.process(HTTP2Flusher.java:253) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.processing(IteratingCallback.java:241) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.IteratingCallback.iterate(IteratingCallback.java:224) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frame(HTTP2Session.java:622) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.frames(HTTP2Session.java:597) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.control(HTTP2Session.java:583) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Session.onGoAway(HTTP2Session.java:372) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.BodyParser.notifyGoAway(BodyParser.java:187) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.onGoAway(GoAwayBodyParser.java:169) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.GoAwayBodyParser.parse(GoAwayBodyParser.java:108) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parseBody(Parser.java:182) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.parser.Parser.parse(Parser.java:110) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection$HTTP2Producer.produce(HTTP2Connection.java:166) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:162) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.execute(ExecuteProduceConsume.java:101) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.http2.HTTP2Connection.onFillable(HTTP2Connection.java:97) ~[http2-common-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.ssl.SslConnection.onFillable(SslConnection.java:197) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:273) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:95) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.io.SelectChannelEndPoint$2.run(SelectChannelEndPoint.java:75) ~[jetty-io-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.produceAndRun(ExecuteProduceConsume.java:213) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume.run(ExecuteProduceConsume.java:147) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:654) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$3.run(QueuedThreadPool.java:572) ~[jetty-util-9.3.7.v20160115.jar:9.3.7.v20160115]
+	at java.lang.Thread.run(Thread.java:745) ~[?:1.8.0_91]
+08:05:34.079 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+08:05:34.080 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+08:05:34.587 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+08:05:34.587 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a79d8fffef61ccd-00004bbd-00044ae2-b4a2cac622897641-04295b48-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+08:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "0c4c0c17-157c-4eb9-814d-63b59ccff1ac"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 581510
+    }
+  }
+}
+08:56:56.489 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+08:56:56.490 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a79d8fffef61ccd-00004bbd-00044ae2-b4a2cac622897641-04295b48-3-
+
+
+08:56:56.490 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+09:00:37.421 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+09:00:37.422 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+09:00:37.951 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+09:00:37.952 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 122aa9fffeb0c419-00000965-000451b3-cd811a09c8c79e09-b34e9ed8-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+09:05:35.106 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIAQDQyoNtjwaYwpDcPsXEQWpEsxqcPJRUaxHRFS1Fl6dOs0Oyu0vv3MOlDPxr13l40nJxV7W2KGR8Fm29WdrrXR8tWUflh0yu-n59FLc5gH7JUQcDVzQteoNIvEKZ_FF2JgDG2WYUQMRwguKuKtdzqd_9tAy5GuXkncNsFqwxIVaFXSuFab1001GWBvW52QcCuBQt7tP4BE8xCXxbs-S8FK1tjMLF1za7lMbVbRySfw9MfUmx5S7kTZOtYOQIUYqCwIVn2A675tgZrz7ymVv81UNUMRpP4qNdg8x5E0zvqVEXZuVfaWn8vSR62iJYGQ_Was3JUYfc5vY7tkTZSCyrHU4o0ZjZUqF1btk4G1JdoOoLxx6WdTQ2XPTp9Qh3_qD52gDVUe6zV0TwgawGLCqiep0khk8ThwF4DcR4JJ6-juEKsYNIJx8MSEV7q9Wf2ZfwtkM1S6KOqu_UD7VfvBoKaG2PBQAXl3xtZTGjuYH7GPNqFChexRAHZ7YJe5ZEl6IdIzQYqR1r24ncHw-JELbBOgNE0ygOgnenV0oPu0Lw5y1mA","expires_in":3600}
+09:05:35.128 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+09:05:35.199 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+09:05:35.200 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 122aa9fffeb0c419-00000965-000451b3-cd811a09c8c79e09-b34e9ed8-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+09:05:35.204 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+09:05:35.202 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+09:05:35.208 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+09:05:35.718 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+09:05:35.719 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7181fffe01f89b-00006978-00044e22-413b99be7fd62128-877a352f-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+09:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "06b78ba8-9c7d-40a9-b7ba-440af10613c5"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 585110
+    }
+  }
+}
+09:56:56.477 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+09:56:56.477 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7181fffe01f89b-00006978-00044e22-413b99be7fd62128-877a352f-3-
+
+
+09:56:56.477 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+10:00:46.003 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+10:00:46.003 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+10:00:46.385 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+10:00:46.385 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a3dd8fffe73a541-0000144e-00045540-50b27380a2ae8dcd-2c35b6d7-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+10:05:35.860 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIFc9LwRlsDcg97W-g6HGnUcxhM8XVuYGIs-o_UAwnwIfhGywH-uDtwTyAl0NNAsupVyokFtyRgYWg1tDat6sHemJ77nsNgkvqpoXUPk_IYQw9snBOnv6lBnDgiUeLWpATXfcn-8f7pcSIMOwnlXJ6IwuC3QDvGtvUO3hCZPTrbDCNAgsi8d2-kYXu0uUNz2H89iRKyQrbO2yclpIEsYDLcqh2rGwfNt5ViFbBU_5HxueHruaU3i1rrWeTnNW85GXcOal4LtOk-U5jHOZNUE1kRlZ484aABGYpVx0bIgm4FJQHgZxWG2-41wQB23ooxWQnb2vnz5xrnO0B0wUaXOjy6G74oswiaQk85ubJmp_SfdSA094ZQTtidw9-3HRtsev1sOIba_--dt4L8FMeuIK9FxuDyaLiexceq8oQuPSjEFWMuf378a2DktWUcqYyOiyfAv5Qkj7kVi24pf2iee7_944GjVQcUFGYLNvJRl2xYao6faPGP-Z5rpcGQVSufHShcGlh_YjysN0LkpQKTKF4IUkhjmmmBg5Thac0qc6ykZ3jQ","expires_in":3600}
+10:05:35.878 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+10:05:35.946 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+10:05:35.947 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a3dd8fffe73a541-0000144e-00045540-50b27380a2ae8dcd-2c35b6d7-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+10:05:35.949 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+10:05:35.950 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+10:05:35.956 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+10:05:36.300 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+10:05:36.301 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a1a6ffffe62f243-00001620-000451f1-a27e849072ab1249-2fac7063-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+10:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "a09ce180-7768-4019-a53c-207029b1ec6d"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 588710
+    }
+  }
+}
+10:56:56.474 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+10:56:56.474 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a1a6ffffe62f243-00001620-000451f1-a27e849072ab1249-2fac7063-3-
+
+
+10:56:56.474 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+11:00:50.973 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+11:00:50.974 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+11:00:51.379 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+11:00:51.380 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12bf1dfffe2bb3c3-000022c6-00045d6d-c3684fa522498fd6-a43f8014-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+11:05:36.653 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIOw4NVKHDmsVap54sQVJb907ixcrm9tn9ATdXqrk6gcUhtdGzedaCLmpj723z5YnBG004rXmQFqISMJ22JD_PwLfe4TVxRLY48MeQUToiGY6_Gt49DmID6Rw75JNeDYU0kbCFyD72siYIr1fJ60o6xGuBsC4kJ23ew3G9gwPoYFgStKSD5H4QDQ7SbOnkgQZ1Ekytu-z5Dya2WkaULvTHAdspGM4jYulOXiopEoNDSuoruaRJ-UrMdhxeo7uQXh77czIrd6C1PQ-2qjN5Ghz1C7EA_jkx99EeHKKD4_0aUMjUx1i0SHx6CkDmgzmHl5cdcadbsLiULp0TMTajJpcu3ibmhmQ72LPFAspOHFD7XHgC4k-t-OwKummGK4dVs-1mNMSKIh_Xze5FP7tpGG6PHc0uAk4yztVxGc0Hiie-rU-UtHLdl7M0SQeDIjndD_SVf4I2AlTzYUZxefE_lAsYTAmIEvpa3-b-CJl2ItG7MtABDG5qEnd29WMhaFzarvRdFSggJMpWz08eu9dqGitL4zTMDzEbiJKa7fpZRk7drxoew","expires_in":3600}
+11:05:36.660 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+11:05:36.728 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+11:05:36.729 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12bf1dfffe2bb3c3-000022c6-00045d6d-c3684fa522498fd6-a43f8014-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+11:05:36.730 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+11:05:36.732 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+11:05:36.733 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+11:05:37.109 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+11:05:37.109 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ae256fffefbaef1-0000126d-00045983-4d0b1380894223f7-50e9c686-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+11:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "fcd9c405-1f34-43e5-959a-b89dd1e71116"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 592310
+    }
+  }
+}
+11:56:56.481 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+11:56:56.481 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ae256fffefbaef1-0000126d-00045983-4d0b1380894223f7-50e9c686-3-
+
+
+11:56:56.481 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+12:00:54.030 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+12:00:54.031 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+12:00:54.452 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+12:00:54.452 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e5b9dfffe2f4e0d-00001f04-0004641d-56f552f40597a64d-7312c409-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+12:05:37.390 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBINM2vudmbIknhxLn7xUfVDB8SUZQC_Cp42FZPR5NmOC1LE9_35Mc5RapJMIslAbAeoMvPtm_D0961Ic87vGjB2CSxA6WYWS1Xsi9Ra-IRX0_EOOsdS-GuAeGuoK4GNvzLBTkO3QJi2xTMdIDcx4k_j3SDL6atkZWrkwGG2Tl-gAVLQqQkDgpmCXDzV1XWEEiz3hoYSKkavkH3YRHE6bpmKrzkb-P7QKk7sx-YsSXtFZYioFbel6uD2rDt2hty00hbfumkCw-d7H2SiAbSLHCygWICjUjfnBAn4KPMWc8IwAP3Mw5voOTlkPGrZ3NBbGAh-IcGWK31RPhrdYiquu-GaVT2xcUAepWTzJnl3ES2Uj3iPtmR-OFplWSy-fTgUQppGHJN8R17nUC3hGDXMTf3VMSGsZDdnLj0RtomTCmzrz0EVIr4bdokt3psWvPhIv7XaF4HbXpIDxVb-5JuG9F1VP28LJdxyoSgAX27HUXI5smI8dw5Tg_wc7hwNGawMHdwaWvK1o9Y8NJTRDAndM2kNTXhd1mbpY1tRlUZlpmRfKfbg","expires_in":3600}
+12:05:37.397 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+12:05:37.471 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+12:05:38.573 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+12:05:38.574 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a827cfffe1553e1-000008c0-00045868-8fdf74ebcb231d9a-6d5b8411-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+12:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "d0da92a3-28f4-4a4f-a9f6-63a7d4c41fa4"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 595910
+    }
+  }
+}
+12:56:56.476 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+12:56:56.477 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a827cfffe1553e1-000008c0-00045868-8fdf74ebcb231d9a-6d5b8411-3-
+
+
+12:56:56.477 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+13:00:39.310 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+13:00:39.310 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+13:00:39.733 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+13:00:39.733 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a48e6fffeb8709b-00004bd7-000461df-7d17776ef0757f49-33258a3e-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+13:05:38.116 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIESk6yljwQsS5LkGgsjEp5HxfiHRSGdmTWZhPF1WRFMlEYeMVkk6zSOhm9Q7Vn6BT8GW6P_3HCFStWgWFoEUknqoNsqhOU3_cvClP-LxscjKCKGj2OmmyJuehLmz0XkpTbo9UViXSJE4VLq6ySrp9Ue-As0zQvxCmNM95lz7G9-CtfTtOVckZVKloau_WCQsDmMlwqNhs5g7zCXr0LBP4KiUi6vMacjpZtXCVa5vYM2nNIaE41OpMogyYScmsgUtKZEvwE1mT3aR3to0jT5cFoQFzl31rob0zHw2-Wh5Z60Dx-2_DhCwWtXkY0S30LchCshwKDfWZ4wCbfhH4SzxPISN9jZ6tF1T9QI8QsJCV1DIbTZ8fTfo2Eezo6HLhjw7ApQ2PoaHF6rSFIDlPM48BqG9xkGq_vxkVvoqMn8ILQmpjvQUugWOU8EuWESnTUkAo5ec4b2Isg1XVQvwIYnhAsQ09AFMCv1AgHifrDPCAxyB3fFUigUwidSDCCfErju1bj6vUbFutpxpngUfiMYN47mvwQ5JwvfywJPqJUL74l8x2w","expires_in":3600}
+13:05:38.125 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+13:05:38.188 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+13:05:38.188 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a48e6fffeb8709b-00004bd7-000461df-7d17776ef0757f49-33258a3e-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+13:05:38.193 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+13:05:38.194 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+13:05:38.195 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+13:05:38.659 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+13:05:38.660 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a1a6ffffe62f243-00001620-000460fc-c8386717bb8fcf00-8d132be0-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+13:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "e22eba0b-8cd2-4f5b-9f30-550b75a3f378"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 599510
+    }
+  }
+}
+13:56:56.475 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+13:56:56.475 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a1a6ffffe62f243-00001620-000460fc-c8386717bb8fcf00-8d132be0-3-
+
+
+13:56:56.476 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+14:00:40.127 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+14:00:40.128 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+14:00:40.543 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+14:00:40.544 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-00047169-db275f3495ca68fd-7c713b11-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+14:05:39.056 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIDVxVCozNpK3aZOEY-MBEOsa3xXIpbzwKUFwVAUuLEJVVwvEkuOiIi7vmi7m9Jk1Wd4aX0bEzt37ILYEadq1VQd5vfYMmaeRV5A2qSx1Ko7RV27uHfWB6AHg2MIPnK8-sIBT9UXNgVPbEZ8B90PJydLWLqTQQKmZDrg_spaWgHQj7Dg5b0HMOFZP-lqLp865VG86nFFA0L8IxxLZiiITUb1wXciom9zMSR4hPKg8PdSilVMi465OJKSconzW9O6xcN8zmWT9UYqAAMpEBcLThsXVri3FaMMjNYdbjOnw_lr7p6Ye2swWXAqDNVlXuShOmjsCC5IRoE9rIT3_E3epjr91t6tP4gfcHDq_ZU1wK0hWBXkK4qJ7Tg_YYwffpeLQtnoU5QiYV0TiXCIoVBLalQOpmdkoTNmJmyfp08W83W4wsV78nwmT-0HOkUC21gygWRdfn3jCo_Q_IBrTt09F8YeQDMaf6OrsHk5OLtBU_3ciNQeoAh_2-nMWrk-apZoTxSy74LPvWbfZylL5w8IiAspXzi0oPpBQO7N_5Jb4MknSwA","expires_in":3600}
+14:05:39.071 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+14:05:39.147 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+14:05:39.147 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-00047169-db275f3495ca68fd-7c713b11-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+14:05:39.152 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+14:05:39.152 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+14:05:39.154 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+14:05:39.614 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+14:05:39.615 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ac700fffe40ec17-00005581-0004686d-fcd5e5bf686cf511-3e2d2d85-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+14:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "d3245569-efab-47d2-aec7-0a15dedb3d65"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 603110
+    }
+  }
+}
+14:56:56.468 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+14:56:56.468 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ac700fffe40ec17-00005581-0004686d-fcd5e5bf686cf511-3e2d2d85-3-
+
+
+14:56:56.469 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+15:00:43.998 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+15:00:43.998 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+15:00:44.448 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+15:00:44.449 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12bbd1fffe0761c1-00006112-00046e63-150e74924a956ebe-75e76850-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+15:05:39.809 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIPduBVx_1NGxOUMpdoiLHKMo3qXL48zeZqZcSEX0v8isM61LdWmAZ7wyQKLSKsv2tqJNP_xkpCaXjMiJdKcMOvUSvjOXc0g8UIFW2T79x_5ZO_zKSinMflDXWQ0Jwp1_36CL7xluJh1tng7bOQks7gtkU-lxYg8cnmEWhBXoD01Lp6vLIWCtvtUGDQdqwuDb1-qTOTHZselA6_esidi2nAOBtMbu66gIbQnYFeisI2UWYctOOtt6U5wsyu6WIIXMUOEuBItipRXnoaARBHoroHgP19e22j0RUoLpP9dyIFHt08z4VM9fdreWUzzA22CeD_M7JUdZoP4sRvnoGwZQJcyusl5Pb5RqwpxDkQTVNB-hFJaHVw0zA2HkAg_l0rPg5bBJhOBqlwfQEN6OL3sUPZJPxPYbPAGArwpRRzKFb4y5ITrr2J1RmzhwHQs2IJA_QjOlr0S7swmqtyv2HUzjJ7vM8mCGA0qNhiLlTk4Uw3X0Luh6Zs4kzKNZ5kkni0jlEVg_aMV8D5LE1-bpNj0aV4AsLDrma6uwQ8TJI1ICMRBiBg","expires_in":3600}
+15:05:39.816 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+15:05:39.881 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+15:05:39.881 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12bbd1fffe0761c1-00006112-00046e63-150e74924a956ebe-75e76850-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+15:05:39.883 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+15:05:39.884 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+15:05:39.885 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+15:05:40.397 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+15:05:40.397 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e1007fffebc8527-000078dd-0004724e-1b1009085731ea68-26091f2c-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+15:56:56.214 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "b409d64d-b0e5-4ebc-b1b8-45efd3215b1f"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 606710
+    }
+  }
+}
+15:56:56.533 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+15:56:56.534 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e1007fffebc8527-000078dd-0004724e-1b1009085731ea68-26091f2c-3-
+
+
+15:56:56.534 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+16:00:51.333 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+16:00:51.333 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+16:00:51.755 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+16:00:51.756 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-00047b2d-35db40941cc351bd-3bd77bbc-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+16:05:40.597 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBILsogj1KXyWys4wIUhLIxI0h8x7nWTyW-uxl_kEqYy6ynyQVaO30RMa-9WCcnRg-gNa7YAKv1MhhZktTWR_ek3NnIO25zyncOe--pCdVh_-eQq29Bcfvy4MAuog86NOtcy3yyhNk28LJL6HRfSMZM4t6YTr4uZFmthQqVe0O3B66EbF5DcBEKNn8Fdm5n1HJS79z2qHZX4vvLYq14US-OMQoF-2GRwoIcLE9YMcwD5ihNei4sgBvqNPnq9nFk0BYqCle-_vRWeBccejYwgxZylA0HxnR-56AUePRhrkH-PFL4LqLUUZAl5JkJ4vG2vuqwua20ZAqrnHLjfCTJ_Y1VTRSinjrXEfsYitepmWQQEYvCm7UlCA3-upUT1RNVM1XpOX1jaZ8hqJNRsD9mQmD4Xd0AvmfcYQUZAjtG5ni-UN-hOQEn1___WmISI0lSFAiYG8BQuwdN7MRE7fu1l_RqBgkTt9wdnzD0lprZIDe2Op_94O6O0IvcYYvcfIluqyouHJN8GcUtFhgfuju3D_hQPubRUKkz-KxiwUvAv-5aRYzTw","expires_in":3600}
+16:05:40.608 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+16:05:40.703 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+16:05:40.703 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e9355fffe43a05d-00000918-00047b2d-35db40941cc351bd-3bd77bbc-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+16:05:40.705 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+16:05:40.706 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+16:05:40.708 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+16:05:41.118 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+16:05:41.118 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-000472c2-329b82e10c38e41d-075887de-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+16:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "5d589ae6-b106-4095-b460-8576fa90f5ac"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 610310
+    }
+  }
+}
+16:56:56.466 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+16:56:56.466 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0a7d2afffe0506af-000053d0-000472c2-329b82e10c38e41d-075887de-3-
+
+
+16:56:56.466 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+17:01:00.954 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+17:01:00.954 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+17:01:01.402 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+17:01:01.402 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e1007fffebc8527-000078dd-00047be7-e24b4b818d384ded-e9eabec9-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+17:05:41.362 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIH3MPzSYhRKs1Wi-Akl1Da5vMXxgwODSmu4ntno4ngN8Doh9IYFCPxh3D8F2Xsk3GQNNF2FXaCy_9I8n_WVAO1ZYrvwHLExgfxj2ov1RJdIcuN4DgNfzKC44NmoqRplXL4RTKdPDA4VxFl_8KNz36uxmw9ac-Mk25H4rgkq_j8ewxjcjvZMNw8rGDY41_jwP2A1j6UHaNV9TFmhbSgIxuxFY5hMNXpVAHt7NW9FzZ8QVvKgTSr1wO7X5LmqksGvFVfh6Ex-XS-P3WQSOBAD4yn5MfTJYLcRqracnwxz2HEfk4HtvCKGq-6JxOc69rXaWLIwOeNNY6gFcT8ChXiUvcW8axm1adlAyWvZcuVehPWV1CVpEnnSHeBnEIsWRMJQRg0KDHwrzFvVU-SsV5M9kulVi3IOOp7AhB-aQA7gpiWysvn1UnzF5ROnnS61VxyG36i3Gfj107p4wVVFK7_b8AQM79yq8iviKJziuWhynA-A_eyRJXGkwT4xOCp1hN29arzoR15FR12kcd1BnP3581wpJJPpq15THBlhkmpv7kBp1Zg","expires_in":3600}
+17:05:41.367 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+17:05:41.441 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+17:05:41.441 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0e1007fffebc8527-000078dd-00047be7-e24b4b818d384ded-e9eabec9-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+17:05:41.443 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+17:05:41.445 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+17:05:41.445 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+17:05:41.865 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+17:05:41.865 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ac700fffe40ec17-00005581-000476ba-7e76e0dba691d97e-99cc4ea7-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+17:56:56.213 [pool-2-thread-1] INFO  com.amazon.alexa.avs.http.AVSClient - Request metadata: 
+{
+  "event" : {
+    "header" : {
+      "namespace" : "System",
+      "name" : "UserInactivityReport",
+      "messageId" : "a7f8bfc9-c410-4dcf-9c03-d228d82ab286"
+    },
+    "payload" : {
+      "inactiveTimeInSeconds" : 613910
+    }
+  }
+}
+17:56:56.491 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 204
+17:56:56.492 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0ac700fffe40ec17-00005581-000476ba-7e76e0dba691d97e-99cc4ea7-3-
+
+
+17:56:56.492 [RequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - This response successfully had no content.
+18:01:13.139 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+18:01:13.140 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+18:01:13.590 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+18:01:13.590 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12e81dfffe101247-00001c6a-00047de1-ca4eeffdd4b1ac01-cca8f96e-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+18:05:42.232 [Timer-0] INFO  com.amazon.alexa.avs.auth.companionservice.CompanionServiceClient - Received response from companion service: {"access_token":"Atza|IwEBIMAcqbQTz5QywQvwUMy3vMVKFqG-LbLe7XqMuFe_BxWIW9_U3UrJ3-mPftChPnArXDwbKPzxkWZGr0FU7LFL4FRhzmSCAQcjdcKezD6aLX4hFFfbxD-eAjpDAJ5iW6vZ497m9X7R2SrKOaqUbuTpE8wixCLV-oixgT79u_4v6ugFMPiYI4u5JFFQWDzqiA8j1qMsLstkuwA5n7NR-ksdswGcldlrCZ3kBNa8HhBnI8ZSYvjhBkMQvcZ2JuXgvEhsXlY2IDlx3o5qEtixxlekXe1eaxuK-6efSDF3KLnGrfyIs6kw_TJZpZaOLWVcEp358tCyZCgQRABhl6cw_3smllwH3lnJ6-aoi27FIySmMYn7dXQY8fLXznHYlnPFOA9LMQxsqWY81b6iOy4njj6beArg9XOljH8h919GBQ0OQo4GN_bryxoSn5foye4FgYAigapGupibW7rVfse-aiHD2w4rHhMoT8rvjS-9ZXHMJY4kmfOlDXl_WOug69TOoIMe_YsVK_mUYKX2-2efEN56mIJKki76t8lJ_o2GePizDySBTg","expires_in":3600}
+18:05:42.239 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+18:05:42.300 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+18:05:42.300 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 12e81dfffe101247-00001c6a-00047de1-ca4eeffdd4b1ac01-cca8f96e-3-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
+18:05:42.303 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+18:05:42.304 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Establishing downchannel
+18:05:42.305 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Finishing downchannel
+18:05:42.704 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response code: 200
+18:05:42.704 [DownchannelRequestThread] INFO  com.amazon.alexa.avs.http.AVSClient - Response headers: access-control-allow-origin: *
+x-amzn-requestid: 0eceedfffedd21f7-00000cab-0004827c-5a8e6c347dd58757-d8d3cf70-1-
+content-type: multipart/related; boundary=------abcde123; type=application/json
+
+
